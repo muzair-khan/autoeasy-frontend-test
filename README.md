@@ -1,4 +1,4 @@
-<h1 align='center'>Cvai Health</h1>
+<h1 align='center'>AUTOEASY FRONTEND TEST</h1>
 
 Node Version
 
