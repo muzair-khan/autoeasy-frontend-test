@@ -20,4 +20,4 @@ npm run dev
 
 ## DEPLOYED URL
 
-[DEPLOYED_URL](https://main--fabulous-fox-700e1f.netlify.app/)
+[https://main--fabulous-fox-700e1f.netlify.app/](https://main--fabulous-fox-700e1f.netlify.app/)
